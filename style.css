@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+MX+Guides&display=swap');
+body{
+    background-color:hotpink;
+}
+
+h1{
+    color: aqua;
+    text-align: center;
+    font-family: "playwrite México Guides";
+}
