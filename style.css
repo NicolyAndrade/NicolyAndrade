@@ -6,5 +6,10 @@ body{
 h1{
     color: aqua;
     text-align: center;
-    font-family: "playwrite México Guides";
+    font-family: "";
+}
+
+button {
+    color: blueviolet;
+    font: size 100px;
 }
